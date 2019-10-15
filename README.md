@@ -2,7 +2,8 @@
 University-grade cryptocurrency course
 
 Main Sources:
-  Courses:
+  
+Courses:
   1.Introduction to Digital Currencies (University of Nicosia) - https://www.unic.ac.cy/blockchain/free-mooc/
   2.Bitcoin and Cryptocurrency Technologies (Princeton University) - https://www.coursera.org/learn/cryptocurrency?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-VUnkGHNKKM9E1PFOPH7Y4Q&siteID=SAyYsTvLiGQ-VUnkGHNKKM9E1PFOPH7Y4Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ
 
