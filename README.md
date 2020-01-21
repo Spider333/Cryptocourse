@@ -34,7 +34,7 @@ Inspired by:
 - Emergence of Bitcoin
 - Main principles and definitions
 
-- Literature:
+### Literature:
 A. Back - [Hashcash](http://www.hashcash.org/papers/hashcash.pdf)
 N. Szabo - [Bitgold](https://nakamotoinstitute.org/bit-gold/)
 W. Dai - [B-money](http://www.hashcash.org/papers/hashcash.pdf)
@@ -46,16 +46,10 @@ Optional:
 Diffie, Hellman - [New Directions in Cryptogprahy](https://ee.stanford.edu/~hellman/publications/24.pdf)
 D. Chaum - [Blind Signatures for Untraceable Payment](https://taler.net/papers/chaum-blind-signatures.pdf)
 S. Haber, S. Stornetta - [How to Timestamp a Digital Document](https://www.anf.es/pdf/Haber_Stornetta.pdf)
-D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/classes/595n-s07/papers/dcnet-jcrypt88.pdf)
+D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/classes/595n-s07/papers/dcnet-jcrypt88.pdf
 
-Obligatory:
+### Slides: TBD
 
-Diffie, Hellman - New Directions in Cryptogprahy
-D. Chaum - Blind Signatures for Untraceable Payment
-Haber, Stornetta - How to Timestamp a Digital Document
-D. Chaum - Dinning Cryptographers Problem
-
-- Slides: TBD
  ****
  
 ## 2. Bitcoin Protocol
@@ -65,9 +59,10 @@ D. Chaum - Dinning Cryptographers Problem
 - Proof-of-Work Consensus Mechanism
 - Bitcoin Script
 
-- Literature:
+### Literature:
 
-- Slides: TBD
+### Slides: TBD
+
  ****
 ## 3. Ethereum Protocol and Smart Contracts
 
@@ -76,18 +71,20 @@ D. Chaum - Dinning Cryptographers Problem
 - Decentralised Applications
 - Alternative smart contract platforms  - EOS, Dfinity, Polkadot, Cosmos, Hyperledger
 
-- Literature:
+### Literature:
 
-- Slides: 
+### Slides: TBD
+
  ****
 ## 4. Coding Solidity
 
 - TBD
 - TBD
 
-- Literature:
+### Literature:
 
-- Slides: TBD
+### Slides: TBD
+
  ****
 ## 5. Alternative Cryptocurrencies
 
@@ -96,9 +93,10 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 - Tokenisation as a phnomenom
 - ICOs and classification of tokens
 
-- Literature:
+### Literature:
 
-- Slides: TBD
+### Slides: TBD
+
  ****
 ## 6. Blockchain Scaling and 2nd layer technologies
 
@@ -106,18 +104,20 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 - Lightning Network - main principles, and overview of implementations
 - Plasma, State Channels - main principles, and overview of implementations
 
-- Literature:
+### Literature:
 
-- Slides: TBD
+### Slides: TBD
+
  ****
 ## 7. Security Considerations of Cryptocurrencies and Blockchains from the Network Perspective
 
 - Attack vectors - 51% attack, Selfish Mining, Time Jacking, Eclipse attack, Flood attack, Sybil attacks ...
 - Anonymity and privacy techniques
 
-- Literature:
+### Literature:
 
-- Slides: TBD
+### Slides: TBD
+
  ****
 ## 8. Security Considerations of Cryptocurrencies from the User Perspective
 
@@ -125,27 +125,30 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 - Cryptocurrency Exchanges and Tools
 - Seeds
 
-- Literature:
+### Literature:
 
-- Slides: TBD
+### Slides: TBD
+
  ****
 ## 9. Blockchain in Enterprise
 
 - Blockchain Consortia - overview nad technologies
 - Ethereum Enterprise Alliance, Hyperledger, Nightfall protocol, Qorum ...
 
-Literature:
+### Literature:
 
-- Slides: TBD
+### Slides: TBD
+
  ****
 ## 10. Alternative usecases for Blockchain
 
 - Overview of different blockchain usecases and applications
 - Non-fungible tokens,DeFi,Supply Chain,Finance, Timestamping
 
-- Literature:
+### Literature:
 
-- Slides:
+### Slides: TBD
+
  ****
  
 ## 11. Economic and Legal Considerations of Cryptocurrencies and Blockchain Technology
@@ -154,17 +157,19 @@ Literature:
 - Legal and Economic Aspects of Cryptocurrencies 
 - ICOs, STOs, IEOs, Airdrops,
 
-- Literature:
+### Literature:
 
-- Slides: 
+### Slides: TBD
+
 
  ****
  
 ## 12. TBD
 
 
-- Literature:
-- Slides: 
+### Literature:
+
+### Slides: TBD
 
 ****
 
