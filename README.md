@@ -18,7 +18,10 @@ Inspired by:
 
   **Based on Books**:
   1. Andreas Antonopoulos - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc)
+  
   2. Andreas Antonopoulos - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+  
+  3. SerHack & Monero Community - [Mastering Monero](https://masteringmonero.com/free-download.html)
   
 
   **Other Resources**:
@@ -55,7 +58,8 @@ D. Chaum - [Blind Signatures for Untraceable Payment](https://taler.net/papers/c
 
 S. Haber, S. Stornetta - [How to Timestamp a Digital Document](https://www.anf.es/pdf/Haber_Stornetta.pdf)
 
-D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/classes/595n-s07/papers/dcnet-jcrypt88.pdf
+D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/classes/595n-s07/papers/dcnet-jcrypt88.pdf)
+
 
 ### Slides: TBD
 
@@ -70,6 +74,21 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 ### Literature:
 
+[Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Chapters 2,3,6 & 10
+
+[Script on Bitcoin Wiki](https://en.bitcoin.it/wiki/Script)
+
+[Script Playground](https://www.crmarsh.com/script-playground/)
+
+[Bitcoin Script for Dummies](https://github.com/siminchen/bitcoinIDE)
+
+[Installing Bitcoin Core](https://en.bitcoin.it/wiki/Help:Installing_Bitcoin_Core)
+
+[Bitcoin Developer Guide](https://bitcoin.org/en/developer-guide#transactions)
+
+[Blockchain Demo](https://andersbrownworth.com/blockchain/)
+
+
 ### Slides: TBD
 
  ****
@@ -81,6 +100,10 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 - Alternative smart contract platforms  - EOS, Dfinity, Polkadot, Cosmos, Hyperledger
 
 ### Literature:
+
+[Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Chapter 5,6,7 and 12
+
+[Learning ETH resources](https://ethereum.org/learn/)
 
 ### Slides: TBD
 
@@ -104,6 +127,14 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 
 ### Literature:
 
+[Mastering Monero](https://masteringmonero.com/free-download.html) - Chapter 3
+
+[Decred Documentation](https://docs.decred.org/research/overview/)
+
+[Zcash WP](https://whitepaperdatabase.com/zcash-zec-whitepaper/)
+
+[PIVX WP](https://pivx.org/wp-content/uploads/2019/05/PIVX-White-Paper-Sept-2018.pdf)
+
 ### Slides: TBD
 
  ****
@@ -113,7 +144,13 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 - Lightning Network - main principles, and overview of implementations
 - Plasma, State Channels - main principles, and overview of implementations
 
-### Literature:
+### Reading:
+
+[Lightning Network](https://lightning.network/)
+
+[Ethereum Layer 2](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
+
+Learning Plasma(https://www.learnplasma.org/en/learn/mvp.html)
 
 ### Slides: TBD
 
@@ -123,7 +160,7 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 - Attack vectors - 51% attack, Selfish Mining, Time Jacking, Eclipse attack, Flood attack, Sybil attacks ...
 - Anonymity and privacy techniques
 
-### Literature:
+### Reading:
 
 ### Slides: TBD
 
@@ -134,17 +171,30 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 - Cryptocurrency Exchanges and Tools
 - Seeds
 
-### Literature:
+### Reading:
+
+[How to Create BTC adress](https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses)
+
+[Base58 encoding](https://en.bitcoin.it/wiki/Base58Check_encoding)
+
+[Seed](https://en.bitcoin.it/wiki/Seed_phrase)
+
+[Deterministic Wallet](https://en.bitcoin.it/wiki/Deterministic_wallet)
+
+[BIP 0032]https://en.bitcoin.it/wiki/BIP_0032
 
 ### Slides: TBD
 
  ****
-## 9. Blockchain in Enterprise
+## 9. Blockchain in Enterprise
 
 - Blockchain Consortia - overview nad technologies
 - Ethereum Enterprise Alliance, Hyperledger, Nightfall protocol, Qorum ...
 
-### Literature:
+### Reading:
+
+[Enterprise Ethereum Alliance](https://entethalliance.org/resources/)
+[Hyperledger](https://www.hyperledger.org/resources)
 
 ### Slides: TBD
 
@@ -154,7 +204,7 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 - Overview of different blockchain usecases and applications
 - Non-fungible tokens,DeFi,Supply Chain,Finance, Timestamping
 
-### Literature:
+### Reading:
 
 ### Slides: TBD
 
@@ -166,7 +216,7 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 - Legal and Economic Aspects of Cryptocurrencies 
 - ICOs, STOs, IEOs, Airdrops,
 
-### Literature:
+### Reading:
 
 ### Slides: TBD
 
