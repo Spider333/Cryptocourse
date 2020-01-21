@@ -120,9 +120,8 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
  ****
 ## 5. Alternative Cryptocurrencies
 
-- Comparison of selected altcoins in terms of technology - MOnero, Zcash, Decred, Pivx ... 
-Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Monero, Zcash, Decred, a ine)
-- Tokenisation as a phnomenom
+- Comparison of selected altcoins in terms of technology - Monero, Zcash, Decred, Pivx ... 
+- Tokenisation as a phenomenom
 - ICOs and classification of tokens
 
 ### Reading & Resources:
