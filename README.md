@@ -8,9 +8,7 @@ Slides with presentation will be linked here later in 2020.
 
 **Contributors**:
 
-Inspired by:
-
-**Courses**:
+**Inspired by Courses**:
 
 1.Introduction to Digital Currencies at [University of Nicosia](https://www.unic.ac.cy/blockchain/free-mooc/) as well as the whole MSc. program
   
