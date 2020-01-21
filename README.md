@@ -37,7 +37,7 @@ Inspired by:
 - Emergence of Bitcoin
 - Main principles and definitions
 
-### Literature:
+### Reading:
 A. Back - [Hashcash](http://www.hashcash.org/papers/hashcash.pdf)
 
 N. Szabo - [Bitgold](https://nakamotoinstitute.org/bit-gold/)
@@ -72,7 +72,7 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 - Proof-of-Work Consensus Mechanism
 - Bitcoin Script
 
-### Literature:
+### Reading:
 
 [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Chapters 2,3,6 & 10
 
@@ -99,7 +99,7 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 - Decentralised Applications
 - Alternative smart contract platforms  - EOS, Dfinity, Polkadot, Cosmos, Hyperledger
 
-### Literature:
+### Reading:
 
 [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Chapter 5,6,7 and 12
 
@@ -113,7 +113,7 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 - TBD
 - TBD
 
-### Literature:
+### Reading:
 
 ### Slides: TBD
 
@@ -125,7 +125,7 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 - Tokenisation as a phnomenom
 - ICOs and classification of tokens
 
-### Literature:
+### Reading:
 
 [Mastering Monero](https://masteringmonero.com/free-download.html) - Chapter 3
 
@@ -181,7 +181,7 @@ Learning Plasma(https://www.learnplasma.org/en/learn/mvp.html)
 
 [Deterministic Wallet](https://en.bitcoin.it/wiki/Deterministic_wallet)
 
-[BIP 0032]https://en.bitcoin.it/wiki/BIP_0032
+[BIP 0032](https://en.bitcoin.it/wiki/BIP_0032)
 
 ### Slides: TBD
 
@@ -194,6 +194,7 @@ Learning Plasma(https://www.learnplasma.org/en/learn/mvp.html)
 ### Reading:
 
 [Enterprise Ethereum Alliance](https://entethalliance.org/resources/)
+
 [Hyperledger](https://www.hyperledger.org/resources)
 
 ### Slides: TBD
