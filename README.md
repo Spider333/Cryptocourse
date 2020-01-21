@@ -35,12 +35,12 @@ Inspired by:
 - Main principles and definitions
 
 - Literature:
-A. Back - [Hashcash] (http://www.hashcash.org/papers/hashcash.pdf)
-N. Szabo - [Bitgold] (https://nakamotoinstitute.org/bit-gold/)
-W. Dai - [B-money] (http://www.hashcash.org/papers/hashcash.pdf)
-S. Nakamoto - [Bitcoin Whitepaper] (https://nakamotoinstitute.org/bitcoin/)
-H. Finney - [RPOW] (https://nakamotoinstitute.org/rpow/)
-Lamport, Shostak, Peace - [The Byzantine General Problem] (https://nakamotoinstitute.org/static/docs/the-byzantine-generals-problem.pdf)
+A. Back - [Hashcash](http://www.hashcash.org/papers/hashcash.pdf)
+N. Szabo - [Bitgold](https://nakamotoinstitute.org/bit-gold/)
+W. Dai - [B-money](http://www.hashcash.org/papers/hashcash.pdf)
+S. Nakamoto - [Bitcoin Whitepaper](https://nakamotoinstitute.org/bitcoin/)
+H. Finney - [RPOW](https://nakamotoinstitute.org/rpow/)
+Lamport, Shostak, Peace - [The Byzantine General Problem](https://nakamotoinstitute.org/static/docs/the-byzantine-generals-problem.pdf)
 
 Optional:
 Diffie, Hellman - [New Directions in Cryptogprahy](https://ee.stanford.edu/~hellman/publications/24.pdf)
