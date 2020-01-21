@@ -37,7 +37,8 @@ Inspired by:
 - Literature:
 
 - Slides: TBD
-
+ ****
+ 
 2. **Bitcoin protocol** 
 
 - Bitcoin protocol specifications
@@ -48,7 +49,7 @@ Inspired by:
 - Literature:
 
 - Slides: TBD
-
+ ****
 3. **Ethereum protocol and smart contracts** 
 
 - Ethereum protocol specifications
@@ -68,7 +69,7 @@ Inspired by:
 - Literature:
 
 - Slides: TBD
-
+ ****
 5. **Alternative Cryptocurrencies**
 
 - Comparison of selected altcoins in terms of technology - MOnero, Zcash, Decred, Pivx ... 
@@ -78,8 +79,8 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 
 - Literature:
 
-- Slides:
-
+- Slides: TBD
+ ****
 6. **Blockchain Scaling and 2nd layer technologies**
 
 - Bitcoin and Ethereum scaling techniques
@@ -89,7 +90,7 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 - Literature:
 
 - Slides: TBD
-
+ ****
 7. **Security Considerations of Cryptocurrencies and Blockchains from the Network Perspective** 
 
 - Attack vectors - 51% attack, Selfish Mining, Time Jacking, Eclipse attack, Flood attack, Sybil attacks ...
@@ -98,7 +99,7 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 - Literature:
 
 - Slides: TBD
-
+ ****
 8. **Security Considerations of Cryptocurrencies from the User Perspective**
 
 - Types of Wallets
@@ -108,7 +109,7 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 - Literature:
 
 - Slides: TBD
-
+ ****
 9. **Blockchain in Enterprise**
 
 - Blockchain Consortia - overview nad technologies
@@ -117,7 +118,7 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 Literature:
 
 - Slides: TBD
-
+ ****
 10. **Alternative usecases for Blockchain**
 
 - Overview of different blockchain usecases and applications
@@ -126,7 +127,7 @@ Literature:
 - Literature:
 
 - Slides:
-
+ ****
 11. **Economic and Legal Considerations of Cryptocurrencies and Blockchain Technology** 
 
 - Legal Challenges of Smart Contracts 
@@ -137,8 +138,7 @@ Literature:
 
 - Slides: 
 
-
-
+ ****
 12. **TBD** 
 
 
