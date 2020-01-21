@@ -109,7 +109,7 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 
 - Slides: TBD
 
-10. **Blockchain in Enterprise**
+9. **Blockchain in Enterprise**
 
 - Blockchain Consortia - overview nad technologies
 - Ethereum Enterprise Alliance, Hyperledger, Nightfall protocol, Qorum ...
@@ -118,7 +118,7 @@ Literature:
 
 - Slides: TBD
 
-11. **Alternative usecases for Blockchain**
+10. **Alternative usecases for Blockchain**
 
 - Overview of different blockchain usecases and applications
 - Non-fungible tokens,DeFi,Supply Chain,Finance, Timestamping
@@ -127,14 +127,22 @@ Literature:
 
 - Slides:
 
-12. **Economic and Legal Considerations of Cryptocurrencies and Blockchain Technology** 
+11. **Economic and Legal Considerations of Cryptocurrencies and Blockchain Technology** 
 
-1. Legal Challenges of Smart Contracts 
-2. Legal and Economic Aspects of Cryptocurrencies 
-3. ICOs, STOs, IEOs, Airdrops,
+- Legal Challenges of Smart Contracts 
+- Legal and Economic Aspects of Cryptocurrencies 
+- ICOs, STOs, IEOs, Airdrops,
 
 - Literature:
 
+- Slides: 
+
+
+
+12. **TBD** 
+
+
+- Literature:
 - Slides: 
 
 ****
