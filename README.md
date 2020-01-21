@@ -35,7 +35,7 @@ Slides with presentation will be linked here later in 2020.
 - Emergence of Bitcoin
 - Main principles and definitions
 
-### Reading:
+### Reading & Resources:
 A. Back - [Hashcash](http://www.hashcash.org/papers/hashcash.pdf)
 
 N. Szabo - [Bitgold](https://nakamotoinstitute.org/bit-gold/)
@@ -70,7 +70,7 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 - Proof-of-Work Consensus Mechanism
 - Bitcoin Script
 
-### Reading:
+### Reading & Resources:
 
 [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Chapters 2,3,6 & 10
 
@@ -97,7 +97,7 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 - Decentralised Applications
 - Alternative smart contract platforms  - EOS, Dfinity, Polkadot, Cosmos, Hyperledger
 
-### Reading:
+### Reading & Resources:
 
 [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Chapter 5,6,7 and 12
 
@@ -111,7 +111,7 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 - TBD
 - TBD
 
-### Reading:
+### Reading & Resources:
 
 ### Slides: TBD
 
@@ -123,7 +123,7 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 - Tokenisation as a phnomenom
 - ICOs and classification of tokens
 
-### Reading:
+### Reading & Resources:
 
 [Mastering Monero](https://masteringmonero.com/free-download.html) - Chapter 3
 
@@ -142,7 +142,7 @@ Porovnanie vybraných alternatívnych kryptomien z pohľadu technológií (Moner
 - Lightning Network - main principles, and overview of implementations
 - Plasma, State Channels - main principles, and overview of implementations
 
-### Reading:
+### Reading & Resources:
 
 [Lightning Network](https://lightning.network/)
 
@@ -158,7 +158,7 @@ Learning Plasma(https://www.learnplasma.org/en/learn/mvp.html)
 - Attack vectors - 51% attack, Selfish Mining, Time Jacking, Eclipse attack, Flood attack, Sybil attacks ...
 - Anonymity and privacy techniques
 
-### Reading:
+### Reading & Resources:
 
 ### Slides: TBD
 
@@ -169,7 +169,7 @@ Learning Plasma(https://www.learnplasma.org/en/learn/mvp.html)
 - Cryptocurrency Exchanges and Tools
 - Seeds
 
-### Reading:
+### Reading & Resources:
 
 [How to Create BTC adress](https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses)
 
@@ -189,7 +189,7 @@ Learning Plasma(https://www.learnplasma.org/en/learn/mvp.html)
 - Blockchain Consortia - overview nad technologies
 - Ethereum Enterprise Alliance, Hyperledger, Nightfall protocol, Qorum ...
 
-### Reading:
+### Reading & Resources:
 
 [Enterprise Ethereum Alliance](https://entethalliance.org/resources/)
 
@@ -203,7 +203,7 @@ Learning Plasma(https://www.learnplasma.org/en/learn/mvp.html)
 - Overview of different blockchain usecases and applications
 - Non-fungible tokens,DeFi,Supply Chain,Finance, Timestamping
 
-### Reading:
+### Reading & Resources:
 
 ### Slides: TBD
 
@@ -215,7 +215,7 @@ Learning Plasma(https://www.learnplasma.org/en/learn/mvp.html)
 - Legal and Economic Aspects of Cryptocurrencies 
 - ICOs, STOs, IEOs, Airdrops,
 
-### Reading:
+### Reading & Resources:
 
 ### Slides: TBD
 
@@ -225,7 +225,7 @@ Learning Plasma(https://www.learnplasma.org/en/learn/mvp.html)
 ## 12. TBD
 
 
-### Literature:
+### Reading & Resources:
 
 ### Slides: TBD
 
