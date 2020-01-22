@@ -1,5 +1,5 @@
 # Cryptocourse
-Complex full-fledged University-grade course for Computer Science classes focused on in-depth understanding of Bitcoin, Ethereum, Cryptocurrencies and Blockchain technology taught at [Slovak University of Technology](https://www.stuba.sk/english.html?page_id=132) by [David Stancel](https://www.stanceldavid.sk/) of [CoinStory](https://coinstory.tech/)  (Blogs, Interviews, Newsletter & Book)
+Complex full-fledged University-grade course for Computer Science classes focused on in-depth understanding of Bitcoin, Ethereum, Cryptocurrencies and Blockchain technology lectured at [Slovak University of Technology](https://www.stuba.sk/english.html?page_id=132) by [David Stancel](https://www.stanceldavid.sk/) of [CoinStory](https://coinstory.tech/)  (Blogs, Interviews, Newsletter & Book)
 
 Feel free to use anything for whatever purpose as long as you attribute credits appopriately. 
 Everyone is also welcomed to send comments, inquires and proposals of topics, and resources to include into the course at david@coinstory.tech. 
