@@ -149,7 +149,7 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 [Ethereum Layer 2](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
 
-Learning Plasma(https://www.learnplasma.org/en/learn/mvp.html)
+[Learning Plasma](https://www.learnplasma.org/en/learn/mvp.html)
 
 ### Slides: TBD
 
