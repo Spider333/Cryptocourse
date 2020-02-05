@@ -17,12 +17,15 @@ Slides with presentation will be linked here later in 2020.
 2.Bitcoin and Cryptocurrency Technologies at [Princeton University](https://www.coursera.org/learn/cryptocurrency?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-VUnkGHNKKM9E1PFOPH7Y4Q&siteID=SAyYsTvLiGQ-VUnkGHNKKM9E1PFOPH7Y4Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
 
   **Based on Books**:
-  1. Andreas Antonopoulos - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc)
+  1. A. Antonopoulos - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc)
   
-  2. Andreas Antonopoulos - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+  2. A. Antonopoulos - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
   
-  3. SerHack & Monero Community - [Mastering Monero](https://masteringmonero.com/free-download.html)
+  3. A. Narayanan, J. Bonneau, E. Felten, A. Miller, S. Goldfeder - [Bitcoin and Cryptocurrency Technologies](https://pdfstop.com/bitcoin-and-cryptocurrency-technologies-pdf/)
   
+  4. P. Kravchenko - [Blockchain and Decentralized Systems](https://www.amazon.com/Blockchain-Decentralized-Systems-Pavel-Kravchenko-ebook/dp/B07M9PD1K9?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-d-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07M9PD1K9)
+  
+  5. SerHack & Monero Community - [Mastering Monero](https://masteringmonero.com/free-download.html)
 
   **Other Resources**:
   An extensive collection of educational resources on crypto is maintained at Github of [CoinStory](https://github.com/Spider333/Coin-History)
