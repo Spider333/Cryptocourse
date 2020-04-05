@@ -26,6 +26,9 @@ Slides with presentation will be linked here later in 2020.
   4. P. Kravchenko - [Blockchain and Decentralized Systems](https://www.amazon.com/Blockchain-Decentralized-Systems-Pavel-Kravchenko-ebook/dp/B07M9PD1K9?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-d-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07M9PD1K9)
   
   5. SerHack & Monero Community - [Mastering Monero](https://masteringmonero.com/free-download.html) (available for free)
+  
+  6. Darren Lau, Daryl Lau, Teh Sze Jin, Kristian Kho, Erina Azmi, TM Lee,Bobby Ong -- [How to DeFi](https://landing.coingecko.com/how-to-defi/)
+  
 
   **Other Resources**:
   An extensive collection of educational resources on crypto is maintained at Github of [CoinStory](https://github.com/Spider333/Coin-History)
