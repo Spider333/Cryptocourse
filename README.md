@@ -31,6 +31,7 @@ Slides with presentation will be linked here later in 2020.
   
   7. Kurt M. Alonso, Sarang Noether, Koe - [Zero to Monero](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf) (available for free)
   
+  8. A. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt - [Mastering Lightning Network](https://github.com/lnbook/lnbook) (available for free)
 
   **Other Resources**:
   An extensive collection of educational resources on crypto is maintained at Github of [CoinStory](https://github.com/Spider333/Coin-History)
@@ -98,6 +99,8 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 [Blockchain Demo](https://andersbrownworth.com/blockchain/)
 
+[Bitcoin Resources by Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
+
 [3D Blockchain Explorer Symphony by IOHK](https://symphony.iohk.io/)
 
 
@@ -115,9 +118,17 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Chapter 5,6,7 and 12
 
+[Resources on Etheruem.org](https://ethereum.org/learn/)
+
 [Ethereum 2.0. Overview by ChainSafe](https://medium.com/chainsafe-systems/ethereum-2-0-a-complete-guide-d46d8ac914ce)
 
+[Polakdot WP](https://polkadot.network/PolkaDotPaper.pdf)
+
 [Learning ETH resources](https://ethereum.org/learn/)
+
+[All writings of Vitalik Buterin at one place](https://waitwho.is/vitalikbuterin/essays)
+
+
 
 ### Slides: TBD
 
@@ -129,6 +140,8 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 ### Reading & Resources:
 
+[Solidity Documentation](https://solidity.readthedocs.io/en/v0.6.4/introduction-to-smart-contracts.html)
+
 [Solidity and Vyper Cheatsheet](https://reference.auditless.com/cheatsheet/)
 
 
@@ -137,6 +150,8 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
  ****
 ## 5. Alternative Cryptocurrencies
 
+- Introduction to Altcoins
+- Basic Differences
 - Comparison of selected altcoins in terms of technology - Monero, Zcash, Decred, Pivx ... 
 - Tokenisation as a phenomenom
 - ICOs and classification of tokens
@@ -144,6 +159,8 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 ### Reading & Resources:
 
 [Mastering Monero](https://masteringmonero.com/free-download.html) - Chapter 3
+
+[Zero to Monero](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf) - 
 
 [Decred Documentation](https://docs.decred.org/research/overview/)
 
@@ -162,11 +179,17 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 ### Reading & Resources:
 
-[Lightning Network](https://lightning.network/)
+[Mastering Lightning Network](https://github.com/lnbook/lnbook) 
 
-[Ethereum Layer 2](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
+[History of Lightning Network by Bitcoin Magazine](https://bitcoinmagazine.com/articles/history-lightning-brainstorm-beta)
 
-[Learning Plasma](https://www.learnplasma.org/en/learn/mvp.html)
+[Lightning Network Web](https://lightning.network/)
+
+[Making Sense of Ethereum Layer 2 (Medium)](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
+
+[The State of Optimistic Rollups (Medium)](https://medium.com/molochdao/the-state-of-optimistic-rollup-8ade537a2d0f)
+
+[Learning Plasma Web](https://www.learnplasma.org/en/learn/mvp.html)
 
 ### Slides: TBD
 
@@ -177,6 +200,17 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 - Anonymity and privacy techniques
 
 ### Reading & Resources:
+
+[Application of Zeroknowledge proofs in Blockchain (Medium)](https://medium.com/ppio/application-zero-knowledge-c0710a2a1dac)
+
+[Staying Anonymous on Ethereum - Tornado Cash)](https://medium.com/@tornado.cash/how-to-stay-anonymous-with-tornado-cash-and-similar-solutions-efdecdbd7d37)
+
+[Breaking MimbleWimble Privacy Model](https://medium.com/dragonfly-research/breaking-mimblewimble-privacy-model-84bcd67bfe52)
+
+[Zeroknowledge-proofs - Intro, comparisons](https://github.com/thecryptofruit/education/blob/master/zk-proofs-rollups.md)
+
+[How to Run BTC node over TOR - Guide](https://medium.com/coinmonks/how-to-run-a-bitcoin-full-node-over-tor-on-an-ubuntu-linux-virtual-machine-bdd7e9415a70)
+
 
 ### Slides: TBD
 
@@ -221,7 +255,9 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 [Enterprise Ethereum Alliance](https://entethalliance.org/resources/)
 
-[Hyperledger](https://www.hyperledger.org/resources)
+[Hyperledger General Resources](https://www.hyperledger.org/resources)
+
+[Hyperledger Presentations](https://wiki.hyperledger.org/display/events/Presentations+for+Meetups)
 
 
 
@@ -249,6 +285,9 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 ### Reading & Resources:
 
 University of Cambridge -[2nd Global Cryptocurrency Benchmarking Study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)
+
+[The NFT Bible](https://opensea.io/blog/guides/non-fungible-tokens/)
+
 [NFTs from Legal Perspective](https://medium.com/the-capital/non-fungible-tokens-from-a-legal-perspective-51de03ea0b06)
 
 ### Slides: TBD
