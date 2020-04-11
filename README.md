@@ -3,7 +3,7 @@ Complex full-fledged University-grade course for Computer Science classes focuse
 
 Feel free to use anything for whatever purpose as long as you attribute credits appopriately. 
 Everyone is also welcomed to send comments, inquires and proposals of topics, and resources to include into the course at david@coinstory.tech. 
-Authors of accepted proposals will be acknowledged on this page below. 
+
 
 Slides with presentation will be linked here later in 2020. 
 
@@ -27,7 +27,9 @@ Slides with presentation will be linked here later in 2020.
   
   5. SerHack & Monero Community - [Mastering Monero](https://masteringmonero.com/free-download.html) (available for free)
   
-  6. Darren Lau, Daryl Lau, Teh Sze Jin, Kristian Kho, Erina Azmi, TM Lee,Bobby Ong -- [How to DeFi](https://landing.coingecko.com/how-to-defi/)
+  6. Darren Lau, Daryl Lau, Teh Sze Jin, Kristian Kho, Erina Azmi, TM Lee,Bobby Ong -- [How to DeFi](https://landing.coingecko.com/how-to-defi/) (available for free)
+  
+  7. Kurt M. Alonso, Sarang Noether, Koe - [Zero to Monero](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf) (available for free)
   
 
   **Other Resources**:
@@ -160,7 +162,7 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 ### Slides: TBD
 
  ****
-## 7. Security Considerations of Cryptocurrencies and Blockchains from the Network Perspective
+## 7. Security & Privacy Considerations of Cryptocurrencies and Blockchains from the Network Perspective
 
 - Attack vectors - 51% attack, Selfish Mining, Time Jacking, Eclipse attack, Flood attack, Sybil attacks ...
 - Anonymity and privacy techniques
@@ -209,6 +211,7 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 - Overview of different blockchain usecases and applications
 - Non-fungible tokens,DeFi,Supply Chain,Finance, Timestamping
+- European Blockchain Service Infrastructure (EBSI) usecases
 
 ### Reading & Resources:
 
@@ -218,9 +221,9 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
  
 ## 11. Economic and Legal Considerations of Cryptocurrencies and Blockchain Technology
 
-- Legal Challenges of Smart Contracts 
+- Legal Challenges of Smart Contracts & Dapps
 - Legal and Economic Aspects of Cryptocurrencies 
-- ICOs, STOs, IEOs, Airdrops,
+- ICOs, STOs, IEOs, Airdrops, CBDCs
 
 ### Reading & Resources:
 
@@ -229,10 +232,19 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
  ****
  
-## 12. TBD
+## 12. Decentralized Finance (DeFi)
 
+- Introduciton to DeFi 
+- MakerDAO & DAI
+- Decentralized Exchanges, Lending, Derivatives, Insurance, Fund Management, Lottery
+- Uniswap, Compound, Synthetix, Opyn, TokenSets, PoolTogether
 
 ### Reading & Resources:
+
+[How to DeFi](https://landing.coingecko.com/how-to-defi/)
+
+[DAI Derivatives - github](https://github.com/jordanlyall/dai-universe)
+
 
 ### Slides: TBD
 
