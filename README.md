@@ -300,7 +300,7 @@ FYI
 
 ### Reading & Resources:
 
-University of Cambridge -[2nd Global Cryptocurrency Benchmarking Study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)
+University of Cambridge - [2nd Global Cryptocurrency Benchmarking Study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)
 
 [The NFT Bible](https://opensea.io/blog/guides/non-fungible-tokens/)
 
@@ -320,7 +320,7 @@ University of Cambridge -[2nd Global Cryptocurrency Benchmarking Study](https://
 
 ### Reading & Resources:
 
-[How to DeFi](https://landing.coingecko.com/how-to-defi/)
+[How to DeFi Book](https://landing.coingecko.com/how-to-defi/)
 
 [Flash Loan Attacks on bZx Explained](https://www.palkeo.com/en/projets/ethereum/bzx.html)
 
