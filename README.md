@@ -88,6 +88,8 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 [Script Playground](https://www.crmarsh.com/script-playground/)
 
+[Bitcoin Script Guide by Blockgeeks](https://blockgeeks.com/guides/best-bitcoin-script-guide/)
+
 [Bitcoin Script for Dummies](https://github.com/siminchen/bitcoinIDE)
 
 [Installing Bitcoin Core](https://en.bitcoin.it/wiki/Help:Installing_Bitcoin_Core)
@@ -95,6 +97,8 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 [Bitcoin Developer Guide](https://bitcoin.org/en/developer-guide#transactions)
 
 [Blockchain Demo](https://andersbrownworth.com/blockchain/)
+
+[3D Blockchain Explorer Symphony by IOHK](https://symphony.iohk.io/)
 
 
 ### Slides: TBD
@@ -111,6 +115,8 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Chapter 5,6,7 and 12
 
+[Ethereum 2.0. Overview by ChainSafe](https://medium.com/chainsafe-systems/ethereum-2-0-a-complete-guide-d46d8ac914ce)
+
 [Learning ETH resources](https://ethereum.org/learn/)
 
 ### Slides: TBD
@@ -122,6 +128,9 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 - TBD
 
 ### Reading & Resources:
+
+[Solidity and Vyper Cheatsheet](https://reference.auditless.com/cheatsheet/)
+
 
 ### Slides: TBD
 
@@ -172,7 +181,7 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 ### Slides: TBD
 
  ****
-## 8. Security Considerations of Cryptocurrencies from the User Perspective
+## 8. Security & Privacy Considerations of Cryptocurrencies from the User Perspective
 
 - Types of Wallets
 - Cryptocurrency Exchanges and Tools
@@ -200,9 +209,21 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 ### Reading & Resources:
 
+[Enterprise Blockchain Protocols Overview](https://kaleido.io/a-technical-analysis-of-ethereum-vs-fabric-vs-corda/)
+
+[Enterprise Blockchain Resources by ConsenSys](https://consensys.net/enterprise-ethereum/lockdown-library/)
+
+[EY's Nightfall Protocol](https://medium.com/coinmonks/overview-of-ey-nightfall-f9e9ce21cf65)
+
+[Baseline Protocol by EY, Microsoft & ConsenSys](https://github.com/ethereum-oasis/baseline)
+
+[IBM Blockchain Platform](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
+
 [Enterprise Ethereum Alliance](https://entethalliance.org/resources/)
 
 [Hyperledger](https://www.hyperledger.org/resources)
+
+
 
 ### Slides: TBD
 
@@ -226,6 +247,9 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 - ICOs, STOs, IEOs, Airdrops, CBDCs
 
 ### Reading & Resources:
+
+University of Cambridge -[2nd Global Cryptocurrency Benchmarking Study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)
+[NFTs from Legal Perspective](https://medium.com/the-capital/non-fungible-tokens-from-a-legal-perspective-51de03ea0b06)
 
 ### Slides: TBD
 
