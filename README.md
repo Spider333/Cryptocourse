@@ -142,7 +142,12 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 [Solidity Documentation](https://solidity.readthedocs.io/en/v0.6.4/introduction-to-smart-contracts.html)
 
+[Comparison ERC20 vs ERC223 vs ERC777](https://www.cointelligence.com/content/comparison-erc20-erc223-new-ethereum-erc777-token-standard/)
+
 [Solidity and Vyper Cheatsheet](https://reference.auditless.com/cheatsheet/)
+
+[CryptoZombies - learning Solidity ](https://cryptozombies.io/)
+
 
 
 ### Slides: TBD
@@ -191,6 +196,10 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 [Learning Plasma Web](https://www.learnplasma.org/en/learn/mvp.html)
 
+FYI
+
+[Running LN on Raspberry Pi - Guide](https://medium.com/@stadicus/noobs-guide-to-%EF%B8%8F-lightning%EF%B8%8F-on-a-raspberry-pi-f0ab7525586e)
+
 ### Slides: TBD
 
  ****
@@ -201,6 +210,8 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 ### Reading & Resources:
 
+[Hypotehtical Cryptocurrency Attacks](https://blockgeeks.com/guides/hypothetical-attacks-on-cryptocurrencies/)
+
 [Application of Zeroknowledge proofs in Blockchain (Medium)](https://medium.com/ppio/application-zero-knowledge-c0710a2a1dac)
 
 [Staying Anonymous on Ethereum - Tornado Cash)](https://medium.com/@tornado.cash/how-to-stay-anonymous-with-tornado-cash-and-similar-solutions-efdecdbd7d37)
@@ -208,6 +219,8 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 [Breaking MimbleWimble Privacy Model](https://medium.com/dragonfly-research/breaking-mimblewimble-privacy-model-84bcd67bfe52)
 
 [Zeroknowledge-proofs - Intro, comparisons](https://github.com/thecryptofruit/education/blob/master/zk-proofs-rollups.md)
+
+[Zeroknowledge Starter Pack by Eth Research](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519)
 
 [How to Run BTC node over TOR - Guide](https://medium.com/coinmonks/how-to-run-a-bitcoin-full-node-over-tor-on-an-ubuntu-linux-virtual-machine-bdd7e9415a70)
 
@@ -232,6 +245,9 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 [Deterministic Wallet](https://en.bitcoin.it/wiki/Deterministic_wallet)
 
 [BIP 0032](https://en.bitcoin.it/wiki/BIP_0032)
+
+[Bitcoin Trezor Wiki](https://wiki.trezor.io/)
+
 
 ### Slides: TBD
 
@@ -305,6 +321,8 @@ University of Cambridge -[2nd Global Cryptocurrency Benchmarking Study](https://
 ### Reading & Resources:
 
 [How to DeFi](https://landing.coingecko.com/how-to-defi/)
+
+[Flash Loan Attacks on bZx Explained](https://www.palkeo.com/en/projets/ethereum/bzx.html)
 
 [DAI Derivatives - github](https://github.com/jordanlyall/dai-universe)
 
