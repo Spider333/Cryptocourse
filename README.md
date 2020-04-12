@@ -122,7 +122,7 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 [Ethereum 2.0. Overview by ChainSafe](https://medium.com/chainsafe-systems/ethereum-2-0-a-complete-guide-d46d8ac914ce)
 
-[Polakdot WP](https://polkadot.network/PolkaDotPaper.pdf)
+[Polkadot WP](https://polkadot.network/PolkaDotPaper.pdf)
 
 [Learning ETH resources](https://ethereum.org/learn/)
 
