@@ -112,7 +112,7 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 - Ethereum protocol specifications
 - Smart contracts
 - Decentralised Applications
-- Alternative smart contract platforms  - EOS, Dfinity, Polkadot, Cosmos, Hyperledger
+- Alternative smart contract platforms  - RSK, Dfinity, Polkadot, Cosmos, AVA, 
 
 ### Reading & Resources:
 
