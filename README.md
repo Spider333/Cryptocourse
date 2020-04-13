@@ -283,10 +283,14 @@ FYI
 ## 10. Alternative usecases for Blockchain
 
 - Overview of different blockchain usecases and applications
-- Non-fungible tokens,DeFi,Supply Chain,Finance, Timestamping
+- Timestamping, Non-fungible tokens, Supply Chain, Academic Certificates, Public Records, 
 - European Blockchain Service Infrastructure (EBSI) usecases
 
 ### Reading & Resources:
+
+[Open Timestamps](https://opentimestamps.org/?digest=3bc98a0c89639e3e0b717701877a849bb8b38147402dfb19643cb3bd39894535)
+
+[Ujo Music](https://ujomusic.com/)
 
 ### Slides: TBD
 
