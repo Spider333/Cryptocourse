@@ -303,7 +303,7 @@ FYI
  
 ## 11. Economic and Legal Considerations of Cryptocurrencies and Blockchain Technology
 
-- Legal Challenges of Smart Contracts & Dapps
+- Legal Challenges of Smart Contracts & Dapps & DAOs
 - Legal and Economic Aspects of Cryptocurrencies 
 - ICOs, STOs, IEOs, Airdrops, CBDCs
 
