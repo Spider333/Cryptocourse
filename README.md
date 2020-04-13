@@ -17,9 +17,9 @@ Slides with presentation will be linked here later in 2020.
 2.Bitcoin and Cryptocurrency Technologies at [Princeton University](https://www.coursera.org/learn/cryptocurrency?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-VUnkGHNKKM9E1PFOPH7Y4Q&siteID=SAyYsTvLiGQ-VUnkGHNKKM9E1PFOPH7Y4Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
 
   **Based on Books**:
-  1. A. Antonopoulos - [Mastering Bitcoin available for free on Github](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc)  or at[Amazon](https://www.amazon.com/gp/product/1491954388/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491954388&linkCode=as2&tag=coinstory-20&linkId=203183cf135990d15df26c6e7c632d77)
+  1. A. Antonopoulos - [Mastering Bitcoin available for free on Github](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc)  or at [Amazon](https://www.amazon.com/gp/product/1491954388/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491954388&linkCode=as2&tag=coinstory-20&linkId=203183cf135990d15df26c6e7c632d77)
   
-  2. A. Antonopoulos - [Mastering Ethereum (available for free on Github](https://github.com/ethereumbook/ethereumbook), or at [Amazon](https://www.amazon.com/gp/product/1491971940/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491971940&linkCode=as2&tag=coinstory-20&linkId=92f8fc507ab3f05a0600437bb85baeb0)
+  2. A. Antonopoulos - [Mastering Ethereum (available for free on Github)](https://github.com/ethereumbook/ethereumbook), or at [Amazon](https://www.amazon.com/gp/product/1491971940/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491971940&linkCode=as2&tag=coinstory-20&linkId=92f8fc507ab3f05a0600437bb85baeb0)
   
   3. A. Narayanan, J. Bonneau, E. Felten, A. Miller, S. Goldfeder - [Bitcoin and Cryptocurrency Technologies (available for free)](https://pdfstop.com/bitcoin-and-cryptocurrency-technologies-pdf/) or at [Amazon](https://www.amazon.com/gp/product/0691171696/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691171696&linkCode=as2&tag=coinstory-20&linkId=e806e9aed420cdb23ccaf70ae9964ffc)
   
@@ -33,9 +33,9 @@ Slides with presentation will be linked here later in 2020.
   
   8. A. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt - [Mastering Lightning Network (available for free on Github)](https://github.com/lnbook/lnbook) 
   
-  Other Recommended Books:
-  
-  J. Song - [Programming Bitcoin](https://www.amazon.com/gp/product/1492031496/ref=as_li_ss_tl?pf_rd_p=c2463b52-1139-4aba-9ac9-26d103f6c586&pf_rd_r=KHGVVFT2B2GQ4W442FH0&linkCode=sl1&tag=jimmysong-20&linkId=890eda96380a7e39e5e3195e6991ec25&language=en_US)
+
+  9. J. Song - [Programming Bitcoin (avaialble fore free on Github)](https://github.com/jimmysong/programmingbitcoin)
+  or at [Amazon](https://www.amazon.com/gp/product/1492031496/ref=as_li_ss_tl?pf_rd_p=c2463b52-1139-4aba-9ac9-26d103f6c586&pf_rd_r=KHGVVFT2B2GQ4W442FH0&linkCode=sl1&tag=jimmysong-20&linkId=890eda96380a7e39e5e3195e6991ec25&language=en_US)
 
   **Other Resources**:
   An extensive collection of educational resources on crypto is maintained at Github of [CoinStory](https://github.com/Spider333/Coin-History)
