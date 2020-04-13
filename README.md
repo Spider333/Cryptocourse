@@ -17,13 +17,13 @@ Slides with presentation will be linked here later in 2020.
 2.Bitcoin and Cryptocurrency Technologies at [Princeton University](https://www.coursera.org/learn/cryptocurrency?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-VUnkGHNKKM9E1PFOPH7Y4Q&siteID=SAyYsTvLiGQ-VUnkGHNKKM9E1PFOPH7Y4Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
 
   **Based on Books**:
-  1. A. Antonopoulos - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc) (available for free)
+  1. A. Antonopoulos - [Mastering Bitcoin available for free on Github] or at[Amazon](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc) (available for free) (https://www.amazon.com/gp/product/1491954388/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491954388&linkCode=as2&tag=coinstory-20&linkId=203183cf135990d15df26c6e7c632d77)
   
-  2. A. Antonopoulos - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) (available for free)
+  2. A. Antonopoulos - [Mastering Ethereum (available for free on Github](https://github.com/ethereumbook/ethereumbook), or at[Amazon](https://www.amazon.com/gp/product/1491971940/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491971940&linkCode=as2&tag=coinstory-20&linkId=92f8fc507ab3f05a0600437bb85baeb0)
   
-  3. A. Narayanan, J. Bonneau, E. Felten, A. Miller, S. Goldfeder - [Bitcoin and Cryptocurrency Technologies](https://pdfstop.com/bitcoin-and-cryptocurrency-technologies-pdf/) (available for free)
+  3. A. Narayanan, J. Bonneau, E. Felten, A. Miller, S. Goldfeder - [Bitcoin and Cryptocurrency Technologies (available for free)](https://pdfstop.com/bitcoin-and-cryptocurrency-technologies-pdf/) [or at Amazon](https://www.amazon.com/gp/product/0691171696/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691171696&linkCode=as2&tag=coinstory-20&linkId=e806e9aed420cdb23ccaf70ae9964ffc)
   
-  4. P. Kravchenko - [Blockchain and Decentralized Systems](https://www.amazon.com/Blockchain-Decentralized-Systems-Pavel-Kravchenko-ebook/dp/B07M9PD1K9?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-d-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07M9PD1K9)
+  4. P. Kravchenko - [Blockchain and Decentralized Systems](https://www.amazon.com/gp/product/6177634273/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=6177634273&linkCode=as2&tag=coinstory-20&linkId=85de87f6acf15d97bda1f829cbcf3374)
   
   5. SerHack & Monero Community - [Mastering Monero](https://masteringmonero.com/free-download.html) (available for free)
   
@@ -31,7 +31,7 @@ Slides with presentation will be linked here later in 2020.
   
   7. Kurt M. Alonso, Sarang Noether, Koe - [Zero to Monero](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf) (available for free)
   
-  8. A. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt - [Mastering Lightning Network](https://github.com/lnbook/lnbook) (available for free)
+  8. A. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt - [Mastering Lightning Network available for free on Github](https://github.com/lnbook/lnbook) (available for free)
   
   Other Recommended Books:
   
