@@ -17,7 +17,7 @@ Slides with presentation will be linked here later in 2020.
 2.Bitcoin and Cryptocurrency Technologies at [Princeton University](https://www.coursera.org/learn/cryptocurrency?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-VUnkGHNKKM9E1PFOPH7Y4Q&siteID=SAyYsTvLiGQ-VUnkGHNKKM9E1PFOPH7Y4Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
 
   **Based on Books**:
-  1. A. Antonopoulos - [Mastering Bitcoin available for free on Github] or at[Amazon](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc) (available for free) (https://www.amazon.com/gp/product/1491954388/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491954388&linkCode=as2&tag=coinstory-20&linkId=203183cf135990d15df26c6e7c632d77)
+  1. A. Antonopoulos - [Mastering Bitcoin available for free on Github](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc)  or at[Amazon](https://www.amazon.com/gp/product/1491954388/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491954388&linkCode=as2&tag=coinstory-20&linkId=203183cf135990d15df26c6e7c632d77)
   
   2. A. Antonopoulos - [Mastering Ethereum (available for free on Github](https://github.com/ethereumbook/ethereumbook), or at[Amazon](https://www.amazon.com/gp/product/1491971940/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491971940&linkCode=as2&tag=coinstory-20&linkId=92f8fc507ab3f05a0600437bb85baeb0)
   
