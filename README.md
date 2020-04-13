@@ -32,6 +32,10 @@ Slides with presentation will be linked here later in 2020.
   7. Kurt M. Alonso, Sarang Noether, Koe - [Zero to Monero](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf) (available for free)
   
   8. A. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt - [Mastering Lightning Network](https://github.com/lnbook/lnbook) (available for free)
+  
+  Other Recommended Books:
+  
+  J. Song - [Programming Bitcoin](https://www.amazon.com/gp/product/1492031496/ref=as_li_ss_tl?pf_rd_p=c2463b52-1139-4aba-9ac9-26d103f6c586&pf_rd_r=KHGVVFT2B2GQ4W442FH0&linkCode=sl1&tag=jimmysong-20&linkId=890eda96380a7e39e5e3195e6991ec25&language=en_US)
 
   **Other Resources**:
   An extensive collection of educational resources on crypto is maintained at Github of [CoinStory](https://github.com/Spider333/Coin-History)
@@ -86,6 +90,8 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Chapters 2,3,6 & 10
 
 [Script on Bitcoin Wiki](https://en.bitcoin.it/wiki/Script)
+
+[Learning Bitcoin tools](https://learnmeabitcoin.com/)
 
 [Script Playground](https://www.crmarsh.com/script-playground/)
 
