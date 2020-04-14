@@ -25,7 +25,7 @@ Slides with presentation will be linked here later in 2020.
   
   4. P. Kravchenko - [Blockchain and Decentralized Systems](https://www.amazon.com/gp/product/6177634273/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=6177634273&linkCode=as2&tag=coinstory-20&linkId=85de87f6acf15d97bda1f829cbcf3374)
   
-  5. SerHack & Monero Community - [Mastering Monero](https://masteringmonero.com/free-download.html) (available for free)
+  5. SerHack & Monero Community - [Mastering Monero (available for free)](https://masteringmonero.com/free-download.html)  or at [Amazon](https://www.amazon.com/gp/product/1731079966/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1731079966&linkCode=as2&tag=coinstory-20&linkId=c8ed51f729c6d4273dec9c25d1ae0435)
   
   6. Darren Lau, Daryl Lau, Teh Sze Jin, Kristian Kho, Erina Azmi, TM Lee,Bobby Ong -- [How to DeFi](https://landing.coingecko.com/how-to-defi/) (available for free)
   
