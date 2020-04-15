@@ -1,55 +1,41 @@
 # Cryptocourse
-Complex full-fledged University-grade course for Computer Science classes focused on in-depth understanding of Bitcoin, Ethereum, Cryptocurrencies and Blockchain technology lectured at [Faculty of Informatics and Information Technologies](https://www.fiit.stuba.sk/en.html?page_id=749) at [Slovak University of Technology](https://www.stuba.sk/english.html?page_id=132) by [David Stancel](https://www.stanceldavid.sk/) of [CoinStory](https://coinstory.tech/)  (Blogs, Interviews, Newsletter & Book) and Kristian Kostal.
 
-Feel free to use anything for whatever purpose as long as you attribute credits appopriately. 
-Everyone is also welcomed to send comments, inquires and proposals of topics, and resources to include into the course at david@coinstory.tech. 
+Complex full-fledged University-grade course for Computer Science classes focused on in-depth understanding of Bitcoin, Ethereum, Cryptocurrencies and Blockchain technology lectured at [Faculty of Informatics and Information Technologies](https://www.fiit.stuba.sk/en.html?page_id=749) at [Slovak University of Technology](https://www.stuba.sk/english.html?page_id=132) by [David Stancel](https://www.stanceldavid.sk/) of [CoinStory](https://coinstory.tech/) \(Blogs, Interviews, Newsletter & Book\) and Kristian Kostal.
 
+Feel free to use anything for whatever purpose as long as you attribute credits appopriately. Everyone is also welcomed to send comments, inquires and proposals of topics, and resources to include into the course at david@coinstory.tech.
 
-Slides with presentation will be linked here later in 2020. 
-
+Slides with presentation will be linked here later in 2020.
 
 **Contributors**:
 
 **Inspired by Courses**:
 
 1.Introduction to Digital Currencies at [University of Nicosia](https://www.unic.ac.cy/blockchain/free-mooc/) as well as the whole MSc. program
-  
+
 2.Bitcoin and Cryptocurrency Technologies at [Princeton University](https://www.coursera.org/learn/cryptocurrency?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-VUnkGHNKKM9E1PFOPH7Y4Q&siteID=SAyYsTvLiGQ-VUnkGHNKKM9E1PFOPH7Y4Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
 
-  **Based on Books**:
-  1. A. Antonopoulos - [Mastering Bitcoin available for free on Github](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc)  or at [Amazon](https://www.amazon.com/gp/product/1491954388/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491954388&linkCode=as2&tag=coinstory-20&linkId=203183cf135990d15df26c6e7c632d77)
-  
-  2. A. Antonopoulos - [Mastering Ethereum (available for free on Github)](https://github.com/ethereumbook/ethereumbook), or at [Amazon](https://www.amazon.com/gp/product/1491971940/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491971940&linkCode=as2&tag=coinstory-20&linkId=92f8fc507ab3f05a0600437bb85baeb0)
-  
-  3. A. Narayanan, J. Bonneau, E. Felten, A. Miller, S. Goldfeder - [Bitcoin and Cryptocurrency Technologies (available for free)](https://pdfstop.com/bitcoin-and-cryptocurrency-technologies-pdf/) or at [Amazon](https://www.amazon.com/gp/product/0691171696/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691171696&linkCode=as2&tag=coinstory-20&linkId=e806e9aed420cdb23ccaf70ae9964ffc)
-  
-  4. P. Kravchenko - [Blockchain and Decentralized Systems](https://www.amazon.com/gp/product/6177634273/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=6177634273&linkCode=as2&tag=coinstory-20&linkId=85de87f6acf15d97bda1f829cbcf3374)
-  
-  5. SerHack & Monero Community - [Mastering Monero (available for free)](https://masteringmonero.com/free-download.html)  or at [Amazon](https://www.amazon.com/gp/product/1731079966/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1731079966&linkCode=as2&tag=coinstory-20&linkId=c8ed51f729c6d4273dec9c25d1ae0435)
-  
-  6. Darren Lau, Daryl Lau, Teh Sze Jin, Kristian Kho, Erina Azmi, TM Lee,Bobby Ong -- [How to DeFi](https://landing.coingecko.com/how-to-defi/) (available for free)
-  
-  7. Kurt M. Alonso, Sarang Noether, Koe - [Zero to Monero](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf) (available for free)
-  
-  8. A. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt - [Mastering Lightning Network (available for free on Github)](https://github.com/lnbook/lnbook) 
-  
-  9. J. Song - [Programming Bitcoin (avaialble fore free on Github)](https://github.com/jimmysong/programmingbitcoin)
-  or at [Amazon](https://www.amazon.com/gp/product/1492031496/ref=as_li_ss_tl?pf_rd_p=c2463b52-1139-4aba-9ac9-26d103f6c586&pf_rd_r=KHGVVFT2B2GQ4W442FH0&linkCode=sl1&tag=jimmysong-20&linkId=890eda96380a7e39e5e3195e6991ec25&language=en_US)
+**Based on Books**: 1. A. Antonopoulos - [Mastering Bitcoin available for free on Github](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc) or at [Amazon](https://www.amazon.com/gp/product/1491954388/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491954388&linkCode=as2&tag=coinstory-20&linkId=203183cf135990d15df26c6e7c632d77)
 
-  **Other Resources**:
-  An extensive collection of educational resources on crypto is maintained at Github of [CoinStory](https://github.com/Spider333/Coin-History)
- ****
- 
- 
- 
+1. A. Antonopoulos - [Mastering Ethereum \(available for free on Github\)](https://github.com/ethereumbook/ethereumbook), or at [Amazon](https://www.amazon.com/gp/product/1491971940/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491971940&linkCode=as2&tag=coinstory-20&linkId=92f8fc507ab3f05a0600437bb85baeb0)
+2. A. Narayanan, J. Bonneau, E. Felten, A. Miller, S. Goldfeder - [Bitcoin and Cryptocurrency Technologies \(available for free\)](https://pdfstop.com/bitcoin-and-cryptocurrency-technologies-pdf/) or at [Amazon](https://www.amazon.com/gp/product/0691171696/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691171696&linkCode=as2&tag=coinstory-20&linkId=e806e9aed420cdb23ccaf70ae9964ffc)
+3. P. Kravchenko - [Blockchain and Decentralized Systems](https://www.amazon.com/gp/product/6177634273/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=6177634273&linkCode=as2&tag=coinstory-20&linkId=85de87f6acf15d97bda1f829cbcf3374)
+4. SerHack & Monero Community - [Mastering Monero \(available for free\)](https://masteringmonero.com/free-download.html) or at [Amazon](https://www.amazon.com/gp/product/1731079966/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1731079966&linkCode=as2&tag=coinstory-20&linkId=c8ed51f729c6d4273dec9c25d1ae0435)
+5. Darren Lau, Daryl Lau, Teh Sze Jin, Kristian Kho, Erina Azmi, TM Lee,Bobby Ong -- [How to DeFi](https://landing.coingecko.com/how-to-defi/) \(available for free\)
+6. Kurt M. Alonso, Sarang Noether, Koe - [Zero to Monero](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf) \(available for free\)
+7. A. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt - [Mastering Lightning Network \(available for free on Github\)](https://github.com/lnbook/lnbook)
+8. J. Song - [Programming Bitcoin \(avaialble fore free on Github\)](https://github.com/jimmysong/programmingbitcoin) or at [Amazon](https://www.amazon.com/gp/product/1492031496/ref=as_li_ss_tl?pf_rd_p=c2463b52-1139-4aba-9ac9-26d103f6c586&pf_rd_r=KHGVVFT2B2GQ4W442FH0&linkCode=sl1&tag=jimmysong-20&linkId=890eda96380a7e39e5e3195e6991ec25&language=en_US)
+
+   **Other Resources**: An extensive collection of educational resources on crypto is maintained at Github of [CoinStory](https://github.com/Spider333/Coin-History)
+
 ## 1. Introduction to Digital Currencies and Blockchain
 
-- History and emergence of digital currencies - Digicash, Bitgold, B-money,Hashcash, RPOW, E-gold .. 
-- Fundamental technology stack
-- Emergence of Bitcoin
-- Main principles and definitions
+* History and emergence of digital currencies - Digicash, Bitgold, B-money,Hashcash, RPOW, E-gold .. 
+* Fundamental technology stack
+* Emergence of Bitcoin
+* Main principles and definitions
 
 ### Reading & Resources:
+
 A. Back - [Hashcash](http://www.hashcash.org/papers/hashcash.pdf)
 
 N. Szabo - [Bitgold](https://nakamotoinstitute.org/bit-gold/)
@@ -72,17 +58,14 @@ S. Haber, S. Stornetta - [How to Timestamp a Digital Document](https://www.anf.e
 
 D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/classes/595n-s07/papers/dcnet-jcrypt88.pdf)
 
-
 ### Slides: TBD
 
- ****
- 
 ## 2. Bitcoin Protocol
 
-- Bitcoin protocol specifications
-- Transactions - UTXO model, data structures
-- Proof-of-Work Consensus Mechanism
-- Bitcoin Script
+* Bitcoin protocol specifications
+* Transactions - UTXO model, data structures
+* Proof-of-Work Consensus Mechanism
+* Bitcoin Script
 
 ### Reading & Resources:
 
@@ -108,16 +91,14 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 [3D Blockchain Explorer Symphony by IOHK](https://symphony.iohk.io/)
 
-
 ### Slides: TBD
 
- ****
-## 3. Ethereum Protocol and Smart Contracts
+## 3. Ethereum Protocol and Smart Contracts
 
-- Ethereum protocol specifications
-- Smart contracts
-- Decentralised Applications
-- Alternative smart contract platforms  - RSK, Dfinity, Polkadot, Cosmos, AVA, 
+* Ethereum protocol specifications
+* Smart contracts
+* Decentralised Applications
+* Alternative smart contract platforms  - RSK, Dfinity, Polkadot, Cosmos, AVA, 
 
 ### Reading & Resources:
 
@@ -133,15 +114,12 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 [All writings of Vitalik Buterin at one place](https://waitwho.is/vitalikbuterin/essays)
 
-
-
 ### Slides: TBD
 
- ****
 ## 4. Coding Solidity
 
-- TBD
-- TBD
+* TBD
+* TBD
 
 ### Reading & Resources:
 
@@ -153,24 +131,21 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 [CryptoZombies - learning Solidity ](https://cryptozombies.io/)
 
-
-
 ### Slides: TBD
 
- ****
 ## 5. Alternative Cryptocurrencies
 
-- Introduction to Altcoins
-- Basic Differences
-- Comparison of selected altcoins in terms of technology - Monero, Zcash, Decred, Pivx ... 
-- Tokenisation as a phenomenom
-- ICOs and classification of tokens
+* Introduction to Altcoins
+* Basic Differences
+* Comparison of selected altcoins in terms of technology - Monero, Zcash, Decred, Pivx ... 
+* Tokenisation as a phenomenom
+* ICOs and classification of tokens
 
 ### Reading & Resources:
 
 [Mastering Monero](https://masteringmonero.com/free-download.html) - Chapter 3
 
-[Zero to Monero](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf) - 
+[Zero to Monero](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf) -
 
 [Decred Documentation](https://docs.decred.org/research/overview/)
 
@@ -180,24 +155,23 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 ### Slides: TBD
 
- ****
 ## 6. Blockchain Scaling and 2nd layer technologies
 
-- Bitcoin and Ethereum scaling techniques
-- Lightning Network - main principles, and overview of implementations
-- Plasma, State Channels - main principles, and overview of implementations
+* Bitcoin and Ethereum scaling techniques
+* Lightning Network - main principles, and overview of implementations
+* Plasma, State Channels - main principles, and overview of implementations
 
 ### Reading & Resources:
 
-[Mastering Lightning Network](https://github.com/lnbook/lnbook) 
+[Mastering Lightning Network](https://github.com/lnbook/lnbook)
 
 [History of Lightning Network by Bitcoin Magazine](https://bitcoinmagazine.com/articles/history-lightning-brainstorm-beta)
 
 [Lightning Network Web](https://lightning.network/)
 
-[Making Sense of Ethereum Layer 2 (Medium)](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
+[Making Sense of Ethereum Layer 2 \(Medium\)](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
 
-[The State of Optimistic Rollups (Medium)](https://medium.com/molochdao/the-state-of-optimistic-rollup-8ade537a2d0f)
+[The State of Optimistic Rollups \(Medium\)](https://medium.com/molochdao/the-state-of-optimistic-rollup-8ade537a2d0f)
 
 [Learning Plasma Web](https://www.learnplasma.org/en/learn/mvp.html)
 
@@ -207,19 +181,18 @@ FYI
 
 ### Slides: TBD
 
- ****
 ## 7. Security & Privacy Considerations of Cryptocurrencies and Blockchains from the Network Perspective
 
-- Attack vectors - 51% attack, Selfish Mining, Time Jacking, Eclipse attack, Flood attack, Sybil attacks ...
-- Anonymity and privacy techniques
+* Attack vectors - 51% attack, Selfish Mining, Time Jacking, Eclipse attack, Flood attack, Sybil attacks ...
+* Anonymity and privacy techniques
 
 ### Reading & Resources:
 
 [Hypotehtical Cryptocurrency Attacks](https://blockgeeks.com/guides/hypothetical-attacks-on-cryptocurrencies/)
 
-[Application of Zeroknowledge proofs in Blockchain (Medium)](https://medium.com/ppio/application-zero-knowledge-c0710a2a1dac)
+[Application of Zeroknowledge proofs in Blockchain \(Medium\)](https://medium.com/ppio/application-zero-knowledge-c0710a2a1dac)
 
-[Staying Anonymous on Ethereum - Tornado Cash)](https://medium.com/@tornado.cash/how-to-stay-anonymous-with-tornado-cash-and-similar-solutions-efdecdbd7d37)
+[Staying Anonymous on Ethereum - Tornado Cash\)](https://medium.com/@tornado.cash/how-to-stay-anonymous-with-tornado-cash-and-similar-solutions-efdecdbd7d37)
 
 [Breaking MimbleWimble Privacy Model](https://medium.com/dragonfly-research/breaking-mimblewimble-privacy-model-84bcd67bfe52)
 
@@ -229,15 +202,13 @@ FYI
 
 [How to Run BTC node over TOR - Guide](https://medium.com/coinmonks/how-to-run-a-bitcoin-full-node-over-tor-on-an-ubuntu-linux-virtual-machine-bdd7e9415a70)
 
-
 ### Slides: TBD
 
- ****
 ## 8. Security & Privacy Considerations of Cryptocurrencies from the User Perspective
 
-- Types of Wallets
-- Cryptocurrency Exchanges and Tools
-- Seeds
+* Types of Wallets
+* Cryptocurrency Exchanges and Tools
+* Seeds
 
 ### Reading & Resources:
 
@@ -253,14 +224,12 @@ FYI
 
 [Bitcoin Trezor Wiki](https://wiki.trezor.io/)
 
-
 ### Slides: TBD
 
- ****
 ## 9. Blockchain in Enterprise
 
-- Blockchain Consortia - overview nad technologies
-- Ethereum Enterprise Alliance, Hyperledger, Nightfall protocol, Qorum ...
+* Blockchain Consortia - overview nad technologies
+* Ethereum Enterprise Alliance, Hyperledger, Nightfall protocol, Qorum ...
 
 ### Reading & Resources:
 
@@ -280,16 +249,13 @@ FYI
 
 [Hyperledger Presentations](https://wiki.hyperledger.org/display/events/Presentations+for+Meetups)
 
-
-
 ### Slides: TBD
 
- ****
 ## 10. Alternative usecases for Blockchain
 
-- Overview of different blockchain usecases and applications
-- Timestamping, Non-fungible tokens, Supply Chain, Academic Certificates, Public Records, 
-- European Blockchain Service Infrastructure (EBSI) usecases
+* Overview of different blockchain usecases and applications
+* Timestamping, Non-fungible tokens, Supply Chain, Academic Certificates, Public Records, 
+* European Blockchain Service Infrastructure \(EBSI\) usecases
 
 ### Reading & Resources:
 
@@ -299,13 +265,11 @@ FYI
 
 ### Slides: TBD
 
- ****
- 
 ## 11. Economic and Legal Considerations of Cryptocurrencies and Blockchain Technology
 
-- Legal Challenges of Smart Contracts & Dapps & DAOs
-- Legal and Economic Aspects of Cryptocurrencies 
-- ICOs, STOs, IEOs, Airdrops, CBDCs
+* Legal Challenges of Smart Contracts & Dapps & DAOs
+* Legal and Economic Aspects of Cryptocurrencies 
+* ICOs, STOs, IEOs, Airdrops, CBDCs
 
 ### Reading & Resources:
 
@@ -317,15 +281,12 @@ University of Cambridge - [2nd Global Cryptocurrency Benchmarking Study](https:/
 
 ### Slides: TBD
 
+## 12. Decentralized Finance \(DeFi\)
 
- ****
- 
-## 12. Decentralized Finance (DeFi)
-
-- Introduciton to DeFi 
-- MakerDAO & DAI
-- Decentralized Exchanges, Lending, Derivatives, Insurance, Fund Management, Lottery
-- Uniswap, Compound, Synthetix, Opyn, TokenSets, PoolTogether
+* Introduciton to DeFi 
+* MakerDAO & DAI
+* Decentralized Exchanges, Lending, Derivatives, Insurance, Fund Management, Lottery
+* Uniswap, Compound, Synthetix, Opyn, TokenSets, PoolTogether
 
 ### Reading & Resources:
 
@@ -335,10 +296,5 @@ University of Cambridge - [2nd Global Cryptocurrency Benchmarking Study](https:/
 
 [DAI Derivatives - github](https://github.com/jordanlyall/dai-universe)
 
-
 ### Slides: TBD
-
-****
-
-
 
