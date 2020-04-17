@@ -28,31 +28,19 @@ Slides with presentation will be linked here later in 2020.
 
 1. A. Antonopoulos - [Mastering Bitcoin available for free on Github](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc) or at [Amazon](https://www.amazon.com/gp/product/1491954388/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491954388&linkCode=as2&tag=coinstory-20&linkId=203183cf135990d15df26c6e7c632d77)
 
-2. A. Narayanan, J. Bonneau, E. Felten, A. Miller, S. Goldfeder - [Bitcoin and Cryptocurrency Technologies \(available for free\)](https://pdfstop.com/bitcoin-and-cryptocurrency-technologies-pdf/) or at [Amazon](https://www.amazon.com/gp/product/0691171696/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691171696&linkCode=as2&tag=coinstory-20&linkId=e806e9aed420cdb23ccaf70ae9964ffc)
+2. A. Antonopoulos - [Mastering Ethereum \(available for free on Github\)](https://github.com/ethereumbook/ethereumbook), or at [Amazon](https://www.amazon.com/gp/product/1491971940/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491971940&linkCode=as2&tag=coinstory-20&linkId=92f8fc507ab3f05a0600437bb85baeb0)
 
-3. P. Kravchenko - [Blockchain and Decentralized Systems](https://www.amazon.com/gp/product/6177634273/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=6177634273&linkCode=as2&tag=coinstory-20&linkId=85de87f6acf15d97bda1f829cbcf3374)
-
-4.  SerHack & Monero Community - [Mastering Monero \(available for free\)](https://masteringmonero.com/free-download.html) or at [Amazon](https://www.amazon.com/gp/product/1731079966/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1731079966&linkCode=as2&tag=coinstory-20&linkId=c8ed51f729c6d4273dec9c25d1ae0435)
-
-5. Darren Lau, Daryl Lau, Teh Sze Jin, Kristian Kho, Erina Azmi, TM Lee,Bobby Ong -- [How to DeFi](https://landing.coingecko.com/how-to-defi/) \(available for free\)
-
-6. Kurt M. Alonso, Sarang Noether, Koe - [Zero to Monero](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf) \(available for free\)
-
-7. A. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt - [Mastering Lightning Network \(available for free on Github\)](https://github.com/lnbook/lnbook)
-
-8. J. Song - [Programming Bitcoin \(available for free on Github\)](https://github.com/jimmysong/programmingbitcoin) or at [Amazon](https://www.amazon.com/gp/product/1492031496/ref=as_li_ss_tl?pf_rd_p=c2463b52-1139-4aba-9ac9-26d103f6c586&pf_rd_r=KHGVVFT2B2GQ4W442FH0&linkCode=sl1&tag=jimmysong-20&linkId=890eda96380a7e39e5e3195e6991ec25&language=en_US)
-
-**Other Resources**: An extensive collection of educational resources on crypto is maintained at Github of [CoinStory](https://github.com/Spider333/Coin-History)
+3. A. Narayanan, J. Bonneau, E. Felten, A. Miller, S. Goldfeder - [Bitcoin and Cryptocurrency Technologies \(available for free\)](https://pdfstop.com/bitcoin-and-cryptocurrency-technologies-pdf/) or at [Amazon](https://www.amazon.com/gp/product/0691171696/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691171696&linkCode=as2&tag=coinstory-20&linkId=e806e9aed420cdb23ccaf70ae9964ffc)
 
 4. P. Kravchenko - [Blockchain and Decentralized Systems](https://www.amazon.com/gp/product/6177634273/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=6177634273&linkCode=as2&tag=coinstory-20&linkId=85de87f6acf15d97bda1f829cbcf3374) 
 
 5. SerHack & Monero Community - [Mastering Monero \(available for free\)](https://masteringmonero.com/free-download.html) or at [Amazon](https://www.amazon.com/gp/product/1731079966/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1731079966&linkCode=as2&tag=coinstory-20&linkId=c8ed51f729c6d4273dec9c25d1ae0435)
 
-6. Darren Lau, Daryl Lau, Teh Sze Jin, Kristian Kho, Erina Azmi, TM Lee,Bobby Ong -- [How to DeFi](https://landing.coingecko.com/how-to-defi/) \(available for free\)
+6. Darren Lau, Daryl Lau, T. Sze Jin, K. Kho, E. Azmi, TM Lee, B. Ong -- [How to DeFi](https://landing.coingecko.com/how-to-defi/) \(available for free\)
 
 7. Kurt M. Alonso, Sarang Noether, Koe - [Zero to Monero](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf) \(available for free\)
 
-8. A. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt - [Mastering Lightning Network \(available for free on Github\)](https://github.com/lnbook/lnbook)  
+8. A. Antonopoulos, O. Osuntokun, R- Pickhardt - [Mastering Lightning Network \(available for free on Github\)](https://github.com/lnbook/lnbook)  
   
 9. J. Song - [Programming Bitcoin \(avaialble fore free on Github\)](https://github.com/jimmysong/programmingbitcoin) or at [Amazon](https://www.amazon.com/gp/product/1492031496/ref=as_li_ss_tl?pf_rd_p=c2463b52-1139-4aba-9ac9-26d103f6c586&pf_rd_r=KHGVVFT2B2GQ4W442FH0&linkCode=sl1&tag=jimmysong-20&linkId=890eda96380a7e39e5e3195e6991ec25&language=en_US)
 
