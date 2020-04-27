@@ -34,9 +34,13 @@ Slides with presentation will be linked here later in 2020.
 
 7. Kurt M. Alonso, Sarang Noether, Koe - [Zero to Monero](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf) \(available for free\)
 
+Further Recommedned Reading: 
+
 8. A. Antonopoulos, O. Osuntokun, R- Pickhardt - [Mastering Lightning Network \(available for free on Github\)](https://github.com/lnbook/lnbook)  
   
 9. J. Song - [Programming Bitcoin \(avaialble fore free on Github\)](https://github.com/jimmysong/programmingbitcoin) or at [Amazon](https://www.amazon.com/gp/product/1492031496/ref=as_li_ss_tl?pf_rd_p=c2463b52-1139-4aba-9ac9-26d103f6c586&pf_rd_r=KHGVVFT2B2GQ4W442FH0&linkCode=sl1&tag=jimmysong-20&linkId=890eda96380a7e39e5e3195e6991ec25&language=en_US)
+
+10. D. Boneh, V.Shoup - Applied Cryptogprahy - [Applied Cryptogprahy](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_5.pdf)
 
 ## 1. Introduction to Digital Currencies and Blockchain
 
