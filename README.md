@@ -100,6 +100,8 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 [Bitcoin Developer Guide](https://bitcoin.org/en/developer-guide#transactions)
 
+[Miniscript Playground](https://magicalbitcoin.org/repl/playground/)
+
 [Blockchain Demo](https://andersbrownworth.com/blockchain/)
 
 [Bitcoin Resources by Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
