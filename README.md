@@ -312,6 +312,7 @@ University of Cambridge - [2nd Global Cryptocurrency Benchmarking Study](https:/
 [Flash Loan Attacks on bZx Explained](https://www.palkeo.com/en/projets/ethereum/bzx.html)
 
 [DAI Derivatives - github](https://github.com/jordanlyall/dai-universe)
+[Amazing Primer on Virtual Economy](https://atelier.net/virtual-economy/)
 
 ### Slides: TBD
 
