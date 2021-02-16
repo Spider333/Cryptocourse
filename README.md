@@ -6,11 +6,11 @@ description: >-
 
 # Cryptocourse
 
-Complex full-fledged University-grade course for Computer Science classes focused on in-depth understanding of Bitcoin, Ethereum, Cryptocurrencies and Blockchain technology lectured at [Faculty of Informatics and Information Technologies](https://www.fiit.stuba.sk/en.html?page_id=749) at [Slovak University of Technology](https://www.stuba.sk/english.html?page_id=132) by [David Stancel](https://www.stanceldavid.sk/) of [CoinStory](https://coinstory.tech/) and Kristian Kostal.
+Complex full-fledged University-grade course for Computer Science classes focused on in-depth understanding of Bitcoin, Ethereum, Cryptocurrencies and Blockchain technology lectured at [Faculty of Informatics and Information Technologies](https://www.fiit.stuba.sk/en.html?page_id=749) at [Slovak University of Technology](https://www.stuba.sk/english.html?page_id=132) by MSc.[David Stancel](https://www.stanceldavid.sk/) of [CoinStory](https://coinstory.tech/) and Dr. Kristian Kostal.
 
 Feel free to use anything for whatever purpose as long as you attribute credits appopriately. Everyone is also welcomed to send comments, inquires and proposals of topics, and resources to include into the course at **david@coinstory.tech**.
 
-Slides with presentation will be linked here later in 2020.
+Slides with presentation will be linked here later in 2021.
 
 **Inspired by Courses**:
 
@@ -73,7 +73,7 @@ S. Haber, S. Stornetta - [How to Timestamp a Digital Document](https://www.anf.e
 
 D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/classes/595n-s07/papers/dcnet-jcrypt88.pdf)
 
-### Slides: TBD
+### [Slides](https://slides.com/stancel/uni1)
 
 ## 2. Bitcoin Protocol
 
