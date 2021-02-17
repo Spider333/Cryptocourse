@@ -243,8 +243,10 @@ FYI
 
 
 
-## 7. Security & Privacy Considerations of Cryptocurrencies and Blockchains from the Network Perspective
+## 8. Security & Privacy Considerations of Cryptocurrencies 
 
+* Types of Wallets, Seeds and archiving
+* Cryptocurrency Exchanges and Tools
 * Attack vectors - 51% attack, Selfish Mining, Time Jacking, Eclipse attack, Flood attack, Sybil attacks ...
 * Anonymity and privacy techniques
 
@@ -264,16 +266,6 @@ FYI
 
 [How to Run BTC node over TOR - Guide](https://medium.com/coinmonks/how-to-run-a-bitcoin-full-node-over-tor-on-an-ubuntu-linux-virtual-machine-bdd7e9415a70)
 
-### Slides: TBD
-
-## 8. Security & Privacy Considerations of Cryptocurrencies from the User Perspective
-
-* Types of Wallets
-* Cryptocurrency Exchanges and Tools
-* Seeds
-
-### Reading & Resources:
-
 [How to Create BTC adress](https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses)
 
 [Base58 encoding](https://en.bitcoin.it/wiki/Base58Check_encoding)
@@ -286,12 +278,15 @@ FYI
 
 [Bitcoin Trezor Wiki](https://wiki.trezor.io/)
 
-### Slides: TBD
+
+### [Slides](https://slides.com/stancel/uni8)
 
 ## 9. Blockchain in Enterprise
 
-* Blockchain Consortia - overview nad technologies
-* Ethereum Enterprise Alliance, Hyperledger, Nightfall protocol, Qorum ...
+* Blockchain Consortia - overview adn technologies
+* Ethereum Enterprise Alliance, Hyperledger, Qorum
+* EY - Nightfall, Baseline
+
 
 ### Reading & Resources:
 
@@ -311,39 +306,51 @@ FYI
 
 [Hyperledger Presentations](https://wiki.hyperledger.org/display/events/Presentations+for+Meetups)
 
-### Slides: TBD
 
-## 10. Alternative usecases for Blockchain
+### [Slides](https://slides.com/stancel/uni9)
 
-* Overview of different blockchain usecases and applications
-* Timestamping, Non-fungible tokens, Supply Chain, Academic Certificates, Public Records, 
-* European Blockchain Service Infrastructure \(EBSI\) usecases
+## 10. Alternative sue-cases for Blockchain
+
+* Overview of different blockchain usecases and applicaitons
+* Public sector usecases, Supply Chain, Finance, Timestamping
+* NOnf-ungible tokens
+* DeFi - MakerDAO & DAI, Decentralized Exchanges, Lending, Derivatives, Insurance, Aggregators
 
 ### Reading & Resources:
 
-[Open Timestamps](https://opentimestamps.org/?digest=3bc98a0c89639e3e0b717701877a849bb8b38147402dfb19643cb3bd39894535)
+[How to DeFi Book](https://landing.coingecko.com/how-to-defi/) chapters 6 and 7
 
-[Ujo Music](https://ujomusic.com/)
+[The NFT Bible](https://opensea.io/blog/guides/non-fungible-tokens/)
+
+### [Slides](https://slides.com/stancel/uni10)
+
+## 11. Interoperability in Blockchain
+
+* Cosmos, Polkadot
+* Homogenous vs. heterogenous
+* different categorization of blockchain interoperability
+
+### Reading & Resources:
+
+[Blockchian Interoperability: Past, Present, and Future Trends](https://arxiv.org/abs/2005.14282)
 
 ### Slides: TBD
 
-## 11. Economic and Legal Considerations of Cryptocurrencies and Blockchain Technology
+## 12. Economic and Legal Considerations of Cryptocurrencies and Blockchain Technology
 
 * Legal Challenges of Smart Contracts & Dapps & DAOs
-* Legal and Economic Aspects of Cryptocurrencies 
+* Legal and Economic Aspects of Cryptocurrencies  - KYC, AML, MiCA
 * ICOs, STOs, IEOs, Airdrops, CBDCs
 
 ### Reading & Resources:
 
 University of Cambridge - [2nd Global Cryptocurrency Benchmarking Study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)
 
-[The NFT Bible](https://opensea.io/blog/guides/non-fungible-tokens/)
-
 [NFTs from Legal Perspective](https://medium.com/the-capital/non-fungible-tokens-from-a-legal-perspective-51de03ea0b06)
 
-### Slides: TBD
+### [Slides](https://slides.com/stancel/uni10)
 
-## 12. Decentralized Finance \(DeFi\)
+## 13. Decentralized Finance \(DeFi\) - BONUS
 
 * Introduciton to DeFi 
 * MakerDAO & DAI
