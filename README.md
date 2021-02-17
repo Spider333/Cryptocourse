@@ -8,9 +8,11 @@ description: >-
 
 Complex full-fledged University-grade course for Computer Science classes focused on in-depth understanding of Bitcoin, Ethereum, Cryptocurrencies and Blockchain technology lectured at [Faculty of Informatics and Information Technologies](https://www.fiit.stuba.sk/en.html?page_id=749) at [Slovak University of Technology](https://www.stuba.sk/english.html?page_id=132) by MSc.[David Stancel](https://www.stanceldavid.sk/) of [CoinStory](https://coinstory.tech/) and Dr. Kristian Kostal.
 
+The creation of this course has been supported by Ernst&Young - Thank you!
+
 Feel free to use anything for whatever purpose as long as you attribute credits appopriately. Everyone is also welcomed to send comments, inquires and proposals of topics, and resources to include into the course at **david@coinstory.tech**.
 
-Slides with presentation will be linked here later in 2021.
+Updated slides will be linked here throughout 2021.
 
 **Inspired by Courses**:
 
@@ -73,6 +75,14 @@ S. Haber, S. Stornetta - [How to Timestamp a Digital Document](https://www.anf.e
 
 D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/classes/595n-s07/papers/dcnet-jcrypt88.pdf)
 
+
+**Live Examples**:
+    - [http://www.datnos.com/bc-demos/public-private-keys/keys.html](http://www.datnos.com/bc-demos/public-private-keys/keys.html)
+    - [https://gugger.guru/blockchain-demo/#!/blockchain](https://gugger.guru/blockchain-demo/#!/blockchain)
+    - [https://blockchaindemo.io](https://blockchaindemo.io/)
+
+  
+
 ### [Slides](https://slides.com/stancel/uni1)
 
 ## 2. Bitcoin Protocol
@@ -84,7 +94,7 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 ### Reading & Resources:
 
-[Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Chapters 2,3,6 & 10
+[Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Chapters 2 and 6
 
 [Script on Bitcoin Wiki](https://en.bitcoin.it/wiki/Script)
 
@@ -102,24 +112,41 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 [Miniscript Playground](https://magicalbitcoin.org/repl/playground/)
 
-[Blockchain Demo](https://andersbrownworth.com/blockchain/)
 
 [Bitcoin Resources by Jameson Lopp](https://www.lopp.net/bitcoin-information.html)
 
 [3D Blockchain Explorer Symphony by IOHK](https://symphony.iohk.io/)
 
-### Slides: TBD
+### [Slides](https://slides.com/stancel/uni2)
 
-## 3. Ethereum Protocol and Smart Contracts
+
+
+
+## 3. Consensus Algorithms
+
+- Mining & Consensus Mechanisms, 
+- Bitcoin Core
+- [Nodes](https://medium.com/@gloriazhao/map-of-the-bitcoin-network-c6f2619a76f3)
+
+**Reading & Resources:**
+
+[Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Chapters 3 and 10
+
+### [Slides](https://slides.com/stancel/uni3)
+
+
+## 4. Ethereum Protocol and Smart Contracts
 
 * Ethereum protocol specifications
-* Smart contracts
-* Decentralised Applications
-* Alternative smart contract platforms  - RSK, Dfinity, Polkadot, Cosmos, AVA, 
+* Smart contracts (ERC standards)
+* Alternative smart contract platforms   
+* [UTXO vs Account Based Model](https://medium.com/@jcliff/intro-to-blockchain-utxo-vs-account-based-89b9a01cd4f5)
 
 ### Reading & Resources:
 
-[Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Chapter 5,6,7 and 12
+[Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Chapters 5,6,7 and 12
+
+### Optional:
 
 [Resources on Etheruem.org](https://ethereum.org/learn/)
 
@@ -131,14 +158,19 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 [All writings of Vitalik Buterin at one place](https://waitwho.is/vitalikbuterin/essays)
 
-### Slides: TBD
+### [Slides](https://slides.com/stancel/uni3)
 
-## 4. Coding Solidity
 
-* TBD
-* TBD
+
+## 5. Coding Solidity
+
+* Syntax, Tools
+* Programming decentralized applicatins
 
 ### Reading & Resources:
+
+Building Ethereum Dapps - Roberto Infante - Chapters 4,5,6, and 8
+
 
 [Solidity Documentation](https://solidity.readthedocs.io/en/v0.6.4/introduction-to-smart-contracts.html)
 
@@ -150,35 +182,48 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 ### Slides: TBD
 
-## 5. Alternative Cryptocurrencies
+
+
+
+
+## 6. Alternative Cryptocurrencies
 
 * Introduction to Altcoins
 * Basic Differences
 * Comparison of selected altcoins in terms of technology - Monero, Zcash, Decred, Pivx ... 
+* Smart Contract Platforms: Cardano, Cosmos, Avalanche, Polkadot, Near
 * Tokenisation as a phenomenom
-* ICOs and classification of tokens
+
 
 ### Reading & Resources:
 
+Mastering Blockchain - Imran Bashir - Chapter 15
+
+### Optional:
+
 [Mastering Monero](https://masteringmonero.com/free-download.html) - Chapter 3
 
-[Zero to Monero](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf) -
+[Zero to Monero](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf) 
 
 [Decred Documentation](https://docs.decred.org/research/overview/)
 
 [Zcash WP](https://whitepaperdatabase.com/zcash-zec-whitepaper/)
 
-[PIVX WP](https://pivx.org/wp-content/uploads/2019/05/PIVX-White-Paper-Sept-2018.pdf)
 
-### Slides: TBD
+### [Slides](https://slides.com/stancel/uni6)
 
-## 6. Blockchain Scaling and 2nd layer technologies
+
+
+## 7. Blockchain Scaling and layer two technologies
 
 * Bitcoin and Ethereum scaling techniques
 * Lightning Network - main principles, and overview of implementations
 * Plasma, State Channels - main principles, and overview of implementations
 
 ### Reading & Resources:
+
+Beginners Guide to Lightning Network:
+https://academy.binance.com/en/articles/what-is-lightning-network
 
 [Mastering Lightning Network](https://github.com/lnbook/lnbook)
 
@@ -197,6 +242,10 @@ FYI
 [Running LN on Raspberry Pi - Guide](https://medium.com/@stadicus/noobs-guide-to-%EF%B8%8F-lightning%EF%B8%8F-on-a-raspberry-pi-f0ab7525586e)
 
 ### Slides: TBD
+
+
+
+
 
 ## 7. Security & Privacy Considerations of Cryptocurrencies and Blockchains from the Network Perspective
 
