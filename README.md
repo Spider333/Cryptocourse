@@ -6,7 +6,7 @@ description: >-
 
 # Cryptocourse
 
-Complex full-fledged University-grade course for Computer Science classes focused on in-depth understanding of Bitcoin, Ethereum, Cryptocurrencies and Blockchain technology lectured at [Faculty of Informatics and Information Technologies](https://www.fiit.stuba.sk/en.html?page_id=749) at [Slovak University of Technology](https://www.stuba.sk/english.html?page_id=132) by MSc.[David Stancel](https://www.stanceldavid.sk/) of [CoinStory](https://coinstory.tech/) and Dr. Kristian Kostal.
+Complex full-fledged University-grade course for Computer Science classes focused on in-depth understanding of Bitcoin, Ethereum, Cryptocurrencies and Blockchain technology lectured at [Faculty of Informatics and Information Technologies](https://www.fiit.stuba.sk/en.html?page_id=749) at [Slovak University of Technology](https://www.stuba.sk/english.html?page_id=132) by [David Stancel, MSc.](https://www.stanceldavid.sk/) of [CoinStory](https://coinstory.tech/) and Kristian Kostal,Phd.
 
 The creation of this course has been supported by Ernst&Young - Thank you!
 
