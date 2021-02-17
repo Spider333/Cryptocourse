@@ -1,8 +1,4 @@
----
-description: >-
-  University-grade course on cryptocurrencies for CS students (Syllabus +
-  slides)
----
+
 
 # Cryptocourse
 
@@ -16,7 +12,7 @@ Updated slides will be linked here throughout 2021.
 
 **Inspired by Courses**:
 
-1.Introduction to Digital Currencies at [University of Nicosia](https://www.unic.ac.cy/blockchain/free-mooc/) as well as the whole MSc. program
+1.Introduction to Digital Currencies at [University of Nicosia](https://www.unic.ac.cy/blockchain/free-mooc/) as well as the whole [MSc. Program](https://www.unic.ac.cy/blockchain/msc-digital-currency/?utm_source=David-Stancel)
 
 2.Bitcoin and Cryptocurrency Technologies at [Princeton University](https://www.coursera.org/learn/cryptocurrency?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-VUnkGHNKKM9E1PFOPH7Y4Q&siteID=SAyYsTvLiGQ-VUnkGHNKKM9E1PFOPH7Y4Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
 
