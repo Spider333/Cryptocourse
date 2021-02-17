@@ -154,7 +154,7 @@ D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/
 
 [All writings of Vitalik Buterin at one place](https://waitwho.is/vitalikbuterin/essays)
 
-### [Slides](https://slides.com/stancel/uni3)
+### [Slides](https://slides.com/stancel/uni4)
 
 
 
