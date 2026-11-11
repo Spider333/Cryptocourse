@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#lectures"><b>Lectures</b></a> &nbsp;·&nbsp;
   <a href="#core-reading"><b>Core reading</b></a> &nbsp;·&nbsp;
+  <a href="#companion-book"><b>CoinStory</b></a> &nbsp;·&nbsp;
   <a href="#staying-current"><b>Staying current</b></a> &nbsp;·&nbsp;
   <a href="https://davidstancel.com"><b>davidstancel.com</b></a>
 </p>
@@ -70,6 +71,16 @@ The course is built on these books. All of them are free to read online.
 
 - **Introduction to Digital Currencies** at the [University of Nicosia](https://www.unic.ac.cy/blockchain/free-mooc/), as well as their whole [blockchain program](https://www.unic.ac.cy/blockchain/)
 - **Bitcoin and Cryptocurrency Technologies** at [Princeton University](https://www.coursera.org/learn/cryptocurrency?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-VUnkGHNKKM9E1PFOPH7Y4Q&siteID=SAyYsTvLiGQ-VUnkGHNKKM9E1PFOPH7Y4Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
+
+<br>
+
+## Companion book
+
+<p align="center">
+  <a href="https://coinstory.tech/"><img src="assets/banner-coinstory.png" alt="CoinStory: The Evolution of Bitcoin and Cryptocurrencies, a book by David Stancel, free to read online at coinstory.tech" width="100%"></a>
+</p>
+
+**[CoinStory: The Evolution of Bitcoin and Cryptocurrencies](https://coinstory.tech/)** (2022) by David Stancel tells the story behind this course: digital cash before Bitcoin, the cypherpunks, the Bitcoin protocol, privacy, Ethereum and DeFi. All 12 chapters are free to read online, starting with [chapter 1, The History of Digital Cash](https://coinstory.tech/book/chapter-01-history-of-digital-cash/). You can also get it on [Amazon](https://www.amazon.com/dp/B0BN7D8BXL/).
 
 <br>
 
